@@ -26,5 +26,5 @@ Technologies Used:
 Result:
 A fully functional To-Do application using React and TypeScript, integrated with an API, allowing users to add, edit, delete, and filter tasks efficiently. 🚀
 
--[DEMO LINK](https://valentin19939.github.io/to-do-app/)
+-[DEMO LINK](https://valentinwdev.github.io/to-do-app/)
 ### Available Scripts
